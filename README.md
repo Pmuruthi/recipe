@@ -1,6 +1,7 @@
 # My recipe project
 
-This repository contains my favorite recipes. Here is one of them:
+Line 2 changed remotely.  
+This repository contains my favorite recipe.
 
 ## Scrambled Eggs Recipe
 
@@ -18,8 +19,8 @@ This repository contains my favorite recipes. Here is one of them:
 3. Heat the non-stick skillet over medium heat and add the butter.
 4. Once the butter has melted and starts to foam, pour in the egg mixture.
 5. Let the eggs sit for a few seconds, then gently stir with a spatula, pushing the eggs from the edges to the centre.
-6. Continue to cook, stiring occasionally, until the eggs are softly set and slightly runny in places. 
+6. Continue to cook, stiring occasionally, until the eggs are softly set and slightly runny in places.
 7. Remove from the heat and let the residual heat finish cooking the eggs.
 8. Serve immediately and enjoy your scrambled eggs!
-   
+
  **Note:** This is the best and most popular recipe for tasty scrambled eggs.This is a test line to demostrate git revert and reset
