@@ -1,4 +1,4 @@
-# Let's begin!
+# Let's begin
 
 Ingredients for Scrambled Eggs:
 
