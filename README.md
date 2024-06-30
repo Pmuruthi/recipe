@@ -1,6 +1,8 @@
-### This is a REMOTE change :0
+# This is a LOCAL change :0
+
 My recipe project
-Line 2 changed remotely.  
+
+Line 2 changed remotely
 This repository contains my favorite recipe.
 
 ## Scrambled Eggs Recipe
@@ -24,4 +26,5 @@ This repository contains my favorite recipe.
 8. Serve immediately and enjoy your scrambled eggs!
 
  **Note:** This is the best and most popular recipe for tasty scrambled eggs.This is a test line to demostrate git revert and reset
+
 ### This is a REMOTE change :0
