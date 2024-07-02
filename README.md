@@ -5,7 +5,7 @@
 Line 2 changed remotely
 This repository contains my favorite recipe.
 
-## Scrambled Eggs Recipe
+### Scrambled Eggs Recipe
 
 **Ingredients:**
 
@@ -14,7 +14,7 @@ This repository contains my favorite recipe.
 - Salt and pepper to taste
 - 1 tablespoon butter
 
-**Instructions:**
+### Instructions:
 
 1. Crack the eggs into a bowl and add the milk. **Season with salt and pepper**.
 2. Whisk the mixture until the yolks and whites are fully combined and the mixture is slightly frothy.
